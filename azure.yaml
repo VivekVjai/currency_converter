@@ -1,0 +1,6 @@
+name: currency-converter
+services:
+  - name: currency-converter
+    project: .
+    language: python
+    host: appservice
